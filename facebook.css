@@ -1,0 +1,114 @@
+/*
+    Original author: https://github.com/marnick-s
+    Open source: https://github.com/marnick-s/facebook-navbar
+
+    ! DO NOT CHANGE OR DELETE THE COMMENT ABOVE !
+*/
+
+nav {
+    background: #4267B2FF;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family: "Arial";
+    display: flex;
+    color: #fff;
+}
+
+.iconlogo {
+    height: 25px;
+    padding: 10px;
+}
+
+.icon {
+    height: 25px;
+    padding: 10px 4px;
+}
+
+input{
+    width: 380px;
+    border: none;
+}
+
+.search {
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-left: 0px;
+    padding: 2px 10px;
+    padding-right: 0;
+    height: 22px;
+    background: #fff
+}
+.searchimg{
+    height: 15px;
+    margin-top: 3px;
+}
+.searchimgdiv{
+    background: #ededed;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 3px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.searchimgdiv:hover{
+    background: #bfbfbf;
+}
+
+.outerprofilebox{
+    margin-left: 16px;
+    font-weight: bold;
+}
+
+.profilebox{
+    margin-top: 8px;
+    height: 30px;
+    padding-left: 6px;
+    padding-right: 14px;
+    display: flex;
+    border-radius: 3px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.profilebox:hover{
+    background: #395ca0;
+}
+
+.photo {
+    height: 22px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 4px;
+}
+
+.profiletext{
+    margin-left: 5px;
+    margin-top: 8px;
+    font-size: 12px;
+}
+
+.textbox{
+    margin-top: 8px;
+    height: 21px;
+    padding-left: 14px;
+    padding-right: 14px;
+    display: flex;
+    border-radius: 3px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    font-size: 12px;
+    padding-top: 9px;
+    font-weight: bold;
+    margin-left: 2px;
+}
+
+.textbox:hover{
+    background: #395ca0;
+}

@@ -6,4 +6,4 @@ A simple HTML/CSS clone of Facebook's navigation bar
 ### Preview:
 ![ImageGlass](https://i.imgur.com/4Ic1f2V.png)
 
-Oh and sadly it works really bad on small screens. Ofcourse you can fix this yourself if you want.
+Oh and sadly it works really bad on small screens. Of course you can fix this yourself if you want.
